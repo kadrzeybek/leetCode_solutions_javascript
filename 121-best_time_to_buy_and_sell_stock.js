@@ -32,6 +32,6 @@ var maxProfit = function(prices) {
 };
 
 //test
-let prices = [2,5,1,6,2,7,5];
+let prices = [2,5,1,6,2,4,5];
 let result = maxProfit(prices);
-console.log(result);  // 6
+console.log(result);  // 5
